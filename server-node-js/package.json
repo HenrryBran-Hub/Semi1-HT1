@@ -1,0 +1,15 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "Servidor de Node Js para hoja de trabajo no. 1 de seminario 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

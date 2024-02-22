@@ -1,0 +1,19 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Entorno de desarrollo / IDEs
+server-node-js/node_modules
+/.vscode
+/.idea
+
+# Archivos de compilación
+/build
+/dist
+
+# Archivos de configuración específicos de los usuarios
+.env
+
+# Otros archivos temporales o de cache
+*.log
+*.cache

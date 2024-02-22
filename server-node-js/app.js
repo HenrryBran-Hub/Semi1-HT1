@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
         });
 });
 
-const port = 5000;
+const port = 3000;
 app.listen(port, () => {
     console.log(`La aplicación está escuchando en http://localhost:${port}`);
 });
